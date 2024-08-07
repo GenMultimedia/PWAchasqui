@@ -1,7 +1,7 @@
 {
   "background_color": "#ffffff",
   "dir": "auto",
-  "display": "fullscreen",
+  "display": "standalone",
   "name": "chasquielcoreodelosincas.netlify",
   "orientation": "portrait",
   "scope": "/",
